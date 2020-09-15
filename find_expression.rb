@@ -1,5 +1,6 @@
 # running on truffleruby 20.1.0, like ruby 2.6.5, GraalVM CE Native [x86_64-linux]
 # find expression of 4 4 4 4 4  to be equal 22
+# random method version
 
 OPEATORS=['', '', '', '+', '-', '/', '*', '**']
 NUMBER = '4'
