@@ -1,4 +1,4 @@
-# Find at least one of any [a,b,c,d] for
+# Find at least one of any unique integer values of a,b,c,d for
 # a**b == c**d AND b**a == d**a
 
 n = [1,2,3,4,5,6,7,8,9,-1,-2,-3,-4,-5,-6,-7,-8,-9]
