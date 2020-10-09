@@ -1,4 +1,4 @@
-# get summ all 3-digits numbers in 3 number system
+# get summ all 3-digits numbers in 4 number system
 s=0
 (1..1000).each do |n|
   if n.to_s(4).length == 3
